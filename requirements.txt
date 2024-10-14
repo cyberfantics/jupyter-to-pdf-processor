@@ -1,0 +1,5 @@
+PyPDF2==3.0.1
+selenium==4.23.1
+pyfiglet==1.0.2
+colorama==0.4.6
+reportlab==4.2.5
